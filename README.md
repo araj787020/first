@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bootstrap revision</title>
-     <!-- Required meta tags -->
+	<title>Bootstrap </title>
+     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -103,11 +103,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-
-
-      </section>
+</section>
 
 
 <section>
